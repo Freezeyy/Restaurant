@@ -6,7 +6,7 @@ export default () => {
     const navigation = useNavigation();
     return (
         <View>
-            <Text>Home</Text>
+            <Text>Notifications</Text>
         </View>
     )
 }

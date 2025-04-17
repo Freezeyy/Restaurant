@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "646966477419",
+    "firebase_url": "https://restaurant-b3fa2-default-rtdb.firebaseio.com",
+    "project_id": "restaurant-b3fa2",
+    "storage_bucket": "restaurant-b3fa2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646966477419:android:ef39ceb78622ea0b42672e",
+        "android_client_info": {
+          "package_name": "com.projectmobile4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXm52OgA9lWf_8Ys7yphFjEMixym34yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
